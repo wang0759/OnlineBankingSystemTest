@@ -1,0 +1,159 @@
+﻿body {
+    font: "Trebuchet MS", Verdana, sans-serif;
+    background-color: lightyellow;
+    color: #696969;
+}
+
+h1 {
+    font: Georgia, serif;
+    border-bottom: 3px solid #cc9900;
+    color: #996600;
+}
+
+p {
+    font-size: 20px;
+}
+
+fieldset {
+    height: 220px;
+    border:groove;
+}
+    
+ legend {
+  padding: 0.2em 0.5em;
+  border:1px solid green;
+  color:green;
+  font-size:110%;
+  text-align:center;
+  }
+
+.leftSidepPan {
+    float:left; 
+    width: 360px; 
+    padding-left:10px; 
+    padding-right:10px; 
+    margin-left:5px; 
+    margin-right: 5px
+}
+
+.rightSidePan {
+    float: left; 
+    width: 120px; 
+    margin-left: 10px 
+}
+
+.center
+{
+    margin:auto;
+    width:80%;
+}
+
+.emphsis {
+    font-weight: 500;
+    font-style: italic;
+    color: red;
+}
+
+.form
+{
+    height: 595px;
+    width: 663px;
+}
+        
+.row{ margin: 10px;}
+        
+.label{
+    display:inline-block; 
+    text-align: right; 
+    width: 120px;
+    padding-right: 5px;}
+
+.textBox {
+    height: 350px;
+    width: 400px;
+    padding: 5px;
+    margin: 10px
+}
+
+.displayPanel {
+    margin: 10px;
+}
+.listLabel {
+    margin: 10px;
+    display:block
+}
+.error {
+    color : red
+}
+
+.distinct {
+    color: blue;
+    font-weight: bold;
+}
+
+.submitbutton {
+    border: 2px solid #f00;
+    border-style: ridge;
+    width: 10em;
+    background-color: lightgoldenrodyellow;
+}
+
+    .submitbutton:hover {
+        border: 2px solid #f00;
+        background: #eef;
+    }
+
+.input {
+    border: 2px solid #006;
+    border-style: groove;
+    background: #ffc;
+    width: 3em;
+}
+
+    .input:hover {
+        border: 2px solid #f00;
+        background: #ff6;
+    }
+
+.dropdown {
+    width : 350px;
+    height : 40px;
+    font-size: 16px;
+    border: groove;
+    background: #ffc;
+}
+    .dropdown:hover {
+        background: #ff6;
+    }
+
+.table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;
+    margin: 2px;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+    .table th {
+        font-size: 13px;
+        font-weight: normal;
+        padding: 8px;
+        background: #b9c9fe;
+        border-top: 4px solid #aabcfe;
+        border-bottom: 1px solid #fff;
+        color: #039;
+    }
+
+    .table td {
+        padding: 8px;
+        background: #e8edff;
+        border-bottom: 1px solid #fff;
+        color: #669;
+        border-top: 1px solid transparent;
+    }
+
+    .table tr:hover td {
+        background: #d0dafd;
+        color: #339;
+    }
