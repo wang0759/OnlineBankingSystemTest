@@ -1,6 +1,6 @@
 # Online Banking System C#
 
-Create a new Web Form ASP.NET Web Application (.NET Framework) in Visual Studio 2019, and add Customers, Deposits, Withdraw, Fund Transfer, Account Activities the Form according to certain conditions. 
+Create a new Web Form ASP.NET Web Application (.NET Framework) in Visual Studio 2019, and introduce Customers, Deposits, Withdraw, Fund Transfer, Account Activities to the Form according to certain conditions. 
 
 
 Objective
